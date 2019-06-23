@@ -1,0 +1,18 @@
+.CoinPicker{
+	padding: 4px;
+	background-color: #808000;
+
+}
+
+.CoinPicker label{
+	margin: 4px;
+}
+
+.CoinPicker select{
+	margin-left: 8px;
+	min-width: 30vw;
+	padding: 5px;
+	border-radius: 5px;
+	
+	outline: none;
+}
